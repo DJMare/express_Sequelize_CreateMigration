@@ -121,6 +121,9 @@ COMMAND PROMPT
     
 ![initial migration in command prompt (express_Sequelize_CreateMigration)](https://user-images.githubusercontent.com/35668707/68441485-460cee80-019c-11ea-9f86-87bdda475ff1.JPG)
 
+VS CODE
+
+(26) Add new property to models/actor.js file for migration: ![in models folder add nick_name property to the actor js file (express_Sequelize_CreateMigration)](https://user-images.githubusercontent.com/35668707/68441726-0c88b300-019d-11ea-964b-a6e117286649.JPG)
 
 
 NODEMON NOTE
