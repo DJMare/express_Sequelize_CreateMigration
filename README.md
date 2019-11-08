@@ -54,7 +54,8 @@ COMMAND PROMPT
 
 VS CODE
 
-(13) Navigate to the routes/index.js file and update. Need to require the mysql2: 
+(13) Navigate to the routes/index.js file and update. Need to require the mysql2: ![open index js file (express_Sequelize_CreateMigration)](https://user-images.githubusercontent.com/35668707/68440663-c9791080-0199-11ea-8208-0ea332d772bd.JPG)
+
 
 (14) Require mysql2 in routes/index.js file: 
 
