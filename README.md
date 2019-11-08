@@ -106,10 +106,12 @@ VS CODE
 
 ![require models in app js file (express_Sequelize_CreateMigration)](https://user-images.githubusercontent.com/35668707/68441209-64261f00-019b-11ea-84f6-31339859384b.JPG)
 
+(23) Add models.sequelize.sync to app.js file: ![add models sequelize sync to app js file (express_Sequelize_CreateMigration)](https://user-images.githubusercontent.com/35668707/68441339-d0088780-019b-11ea-97b1-d8d7786abe04.JPG)
+
 
 COMMAND PROMPT
 
-(23) Run nodemon in terminal to see DB sync'd up: 
+(24) Run nodemon in terminal to see DB sync'd up: 
 
 
 NODEMON NOTE
