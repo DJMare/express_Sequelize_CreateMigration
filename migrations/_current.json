@@ -1,0 +1,9 @@
+{
+    "tables": {
+        "actor": {
+            "tableName": "actor",
+            "indexes": []
+        }
+    },
+    "revision": 1
+}
