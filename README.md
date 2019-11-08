@@ -19,13 +19,13 @@ COMMAND PROMPT
 
     npm install express-generator -g
 
-(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_: 
+(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_CreateMigration: 
 
-    express --view=hbs express_Sequelize_
+    express --view=hbs express_Sequelize_CreateMigration
 
-(6) Once the process is complete, navigate into the express_Sequelize_ directory: 
+(6) Once the process is complete, navigate into the express_Sequelize_CreateMigration directory: 
 
-    cd express_Sequelize_
+    cd express_Sequelize_CreateMigration
 
 (7) Now in the express_ directory, run the following: 
 
@@ -35,7 +35,7 @@ COMMAND PROMPT
 
     npm install -g nodemon
     
-(9) Install Nodemon as a devDependency in the package.json file within the express_ directory:
+(9) Install Nodemon as a devDependency in the package.json file within the express_CreateMigration directory:
 
     npm install -save-dev nodemon
     
