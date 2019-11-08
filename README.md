@@ -104,6 +104,8 @@ VS CODE
 
 (22) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application: ![open app js file (express_Sequelize_CreateMigration)](https://user-images.githubusercontent.com/35668707/68441136-2e813600-019b-11ea-9b82-604b4baaad1e.JPG)
 
+![require models in app js file (express_Sequelize_CreateMigration)](https://user-images.githubusercontent.com/35668707/68441209-64261f00-019b-11ea-84f6-31339859384b.JPG)
+
 
 COMMAND PROMPT
 
