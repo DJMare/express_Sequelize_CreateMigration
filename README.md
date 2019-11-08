@@ -75,6 +75,8 @@ VS CODE
 
 (17) Open config/config.json file and change settings to connect to the database: ![open config json file (express_Sequelize_CreateMigration)](https://user-images.githubusercontent.com/35668707/68440965-9daa5a80-019a-11ea-94dd-3dafa4523807.JPG)
 
+![update password and datbase info in config json file (express_Sequelize_CreateMigration)](https://user-images.githubusercontent.com/35668707/68441042-dfd39c00-019a-11ea-8e12-8c9601e6b232.JPG)
+
 
 COMMAND PROMPT
 
