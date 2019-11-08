@@ -111,7 +111,16 @@ VS CODE
 
 COMMAND PROMPT
 
-(24) Run nodemon in terminal to see DB sync'd up: 
+(24) Globally install sequelize-auto-migrations tool:
+
+    npm install -g sequelize-auto-migration
+  
+(25) Create initial migration: 
+
+    makemigration --name initial_migration
+    
+![initial migration in command prompt (express_Sequelize_CreateMigration)](https://user-images.githubusercontent.com/35668707/68441485-460cee80-019c-11ea-9f86-87bdda475ff1.JPG)
+
 
 
 NODEMON NOTE
