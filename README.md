@@ -35,7 +35,7 @@ COMMAND PROMPT
 
     npm install -g nodemon
     
-(9) Install Nodemon as a devDependency in the package.json file within the express_CreateMigration directory:
+(9) Install Nodemon as a devDependency in the package.json file within the express_Sequelize_CreateMigration directory:
 
     npm install -save-dev nodemon
     
