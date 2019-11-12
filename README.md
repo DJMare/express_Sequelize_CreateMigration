@@ -1,5 +1,5 @@
 # express_Sequelize_CreateMigration
-An express app utilizing sequelize cli to connect to mySql workbence and create a migration. 
+An express app utilizing sequelize cli to connect to mySql workbench and create a migration. 
 
 COMMAND PROMPT
 
