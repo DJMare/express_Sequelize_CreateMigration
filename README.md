@@ -1,5 +1,5 @@
 # express_Sequelize_CreateMigration
-An express app utilizing sequelize cli to connect to mySql workbench and create a migration. 
+An express app utilizing sequelize cli to connect to mySQL workbench and create a migration. 
 
 COMMAND PROMPT
 
@@ -7,7 +7,7 @@ COMMAND PROMPT
 
     cd Desktop
 
-(2) Create a new folder on desktop: 
+(2) Create a new folder on Desktop: 
 
     mkdir Express
 
