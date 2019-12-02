@@ -1,4 +1,4 @@
-# Express_Sequelize_CreateMigration
+# Sequelize_CreateMigration
 An express app utilizing sequelize cli to connect to mySQL workbench and create a migration. 
 
 COMMAND PROMPT
